@@ -1,4 +1,4 @@
-# SATNet
-Official implementation of SATNet.
+# LATNet
+Official implementation of LATNet.
 
 Codes will be coming soon!
